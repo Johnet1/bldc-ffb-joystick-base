@@ -62,7 +62,7 @@ assembly - full STP assembly, preview it online at https://autode.sk/3tObyss
 | HTD-350-5M/15                 | 1  |
   
 To control motors custom PCB board is used. 
-[![image](/images/pcb.jpg)]((https://oshwlab.com/olukelo/btn8982-three-phase-controller_copy_copy_copy))
+[![image](/images/pcb.jpg)](https://oshwlab.com/olukelo/btn8982-three-phase-controller_copy_copy_copy)
 You can order prebuild board at JLCPCB directly from EasyEDA. Because JLCPCB does not source some components you will need to buy them separately and solder on your own.
   
 Firmware will be added soon :)
