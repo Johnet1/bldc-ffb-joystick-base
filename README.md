@@ -50,7 +50,7 @@ assembly - full STP assembly, preview it online at https://autode.sk/3tObyss
 
 | Motor                         |    |
 | ----------------------------- | -- |
-| APS5063 - 60kV                | 2  |
+| APS5065 - 60kV                | 2  |
 
 | Motor pulley                  |    |
 | ----------------------------- | -- |
